@@ -431,10 +431,10 @@ import { Component, ViewEncapsulation } from '@angular/core';
       <div class="container">
         <!--  WELCOME  -->
         <div id="welcome">
-          <h1>
+          <h4>
             <span> Hello there, </span>
             Welcome admin 👋
-          </h1>
+          </h4>
         </div>
 
         <!--  HERO  -->

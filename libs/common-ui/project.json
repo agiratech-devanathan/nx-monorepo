@@ -11,6 +11,7 @@
       "options": {
         "jestConfig": "libs/common-ui/jest.config.ts",
         "passWithNoTests": true
+        
       }
     },
     "lint": {
@@ -20,6 +21,7 @@
         "lintFilePatterns": [
           "libs/common-ui/**/*.ts",
           "libs/common-ui/**/*.html"
+
         ]
       }
     }
